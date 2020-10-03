@@ -1,0 +1,89 @@
+<html>
+<head>
+  <title>COVID_Airline_Information_V2 (FeatureServer)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services">Home</a> > <a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services">services</a> > <a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer">COVID_Airline_Information_V2 (FeatureServer)</a> </td>
+<td align="right">
+<a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+<div class='restHeader'>
+<h2>COVID_Airline_Information_V2 (FeatureServer)</h2>
+</div>
+<div class='restBody'>
+<b>View In: </b>
+&nbsp;&nbsp;<a href="http://www.arcgis.com/home/webmap/viewer.html?url=https://services3.arcgis.com/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer/&source=sd" target="_blank">ArcGIS.com Map</a>
+<br/><br/>
+<b>Service Description:</b> <br/>
+<br/>
+<b>Service ItemId:</b> 3d6289770fbc464ab1a87154a84e43a9<br/>
+<br/>
+<b>Has Versioned Data:</b> false<br/>
+<br/>
+<b>Max Record Count:</b> 2000<br/>
+<br/>
+<b>Supported query Formats:</b> JSON<br/>
+<br/>
+<b>Supports applyEdits with GlobalIds:</b> False<br/>
+<br/>
+<a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer//layers">All Layers and Tables</a><br/>
+<br/>
+<b>Layers:</b> <br/>
+<ul>
+<li><a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer/0">COVID_Airline_Information_V2</a> (0)</li>
+</ul><br/>
+<b>Description:</b> <br/>
+<br/>
+<b>Copyright Text:</b> <br/>
+<br/>
+<b>Spatial Reference:</b> 102100<br/>
+<br/>
+<b>Initial Extent:</b> <br/>
+<ul>
+XMin: -19745654.2414122<br/>
+YMin: -15806348.0709987<br/>
+XMax: 19810863.640646<br/>
+YMax: 14826270.4354729<br/>
+Spatial Reference: 102100<br/>
+</ul>
+<b>Full Extent:</b> <br/>
+<ul>
+XMin: -19745654.2414122<br/>
+YMin: -15806348.0709987<br/>
+XMax: 19810863.640646<br/>
+YMax: 14826270.4354729<br/>
+Spatial Reference: 102100<br/>
+</ul>
+<b>Units:</b> esriMeters<br/>
+<br/>
+<b>Child Resources: </b>
+&nbsp;&nbsp;<a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer//info">Info</a>
+<br/><br/>
+<b>Supported Operations: </b>
+&nbsp;&nbsp;<a href="/t6lYS2Pmd8iVx1fy/ArcGIS/rest/services/COVID_Airline_Information_V2/FeatureServer//query">Query</a>
+<br/><br/>
+</div>
+</body>
+</html>
