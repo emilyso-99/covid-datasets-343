@@ -76,7 +76,7 @@ create function government_policies_date_check()
 	returns trigger
 	as $$
 		begin
-			if new.date_started < (select max(date) from CovidEffects) and new.date_started > (select min(date) from CovidEffects) then
+			if new.date_started <= (select max(date) from CovidEffects) and new.date_started >= (select min(date) from CovidEffects) then
 				return new;
 			end if;
 			return null;
@@ -93,7 +93,7 @@ create function financial_aid_date_check()
 	returns trigger
 	as $$
 		begin
-			if new.approval_date < (select max(date) from CovidEffects) and new.approval_date > (select min(date) from CovidEffects) then
+			if new.approval_date <= (select max(date) from CovidEffects) and new.approval_date >= (select min(date) from CovidEffects) then
 				return new;
 			end if;
 			return null;
@@ -110,7 +110,7 @@ create function airline_restrictions_date_check()
 	returns trigger
 	as $$
 		begin
-			if new.publication_date < (select max(date) from CovidEffects) and new.publication_date > (select min(date) from CovidEffects) then
+			if new.publication_date <= (select max(date) from CovidEffects) and new.publication_date >= (select min(date) from CovidEffects) then
 				return new;
 			end if;
 			return null;
@@ -127,7 +127,7 @@ create function political_unrest_date_check()
 	returns trigger
 	as $$
 		begin
-			if new.event_date < (select max(date) from CovidEffects) and new.event_date > (select min(date) from CovidEffects) then
+			if new.event_date <= (select max(date) from CovidEffects) and new.event_date >= (select min(date) from CovidEffects) then
 				return new;
 			end if;
 			return null;
