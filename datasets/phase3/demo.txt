@@ -1,0 +1,20 @@
+\copy countryinfo FROM './imported_country_info.csv' csv header;
+\copy covideffects FROM './new_imported_covid_effects.csv' csv header;
+\copy financialaid FROM './new_imported_financial_aid.csv' csv header;
+\copy governmentpolicies FROM './imported_government_policies.csv' csv header;
+\copy politicalunrest FROM './imported_political_unrest.csv' csv header;
+\copy airlinerestrictions FROM './imported_airline_restrictions.csv' csv header;
+
+SELECT count(*) as countryinfo_count FROM countryinfo;
+SELECT count(*) as covideffects_count FROM covideffects;
+SELECT count(*) as financialaid_count FROM financialaid;
+SELECT count(*) as governmentpolicies_count FROM governmentpolicies;
+SELECT count(*) as politicalunrest_count FROM politicalunrest;
+SELECT count(*) as airlinerestrictions_count from airlinerestrictions;
+
+SELECT * FROM countryinfo LIMIT 10;
+SELECT * FROM covideffects LIMIT 10;
+SELECT * FROM financialaid LIMIT 10;
+SELECT * FROM politicalunrest LIMIT 10;
+SELECT * FROM governmentpolicies LIMIT 10;
+SELECT * FROM airlinerestrictions LIMIT 10;
