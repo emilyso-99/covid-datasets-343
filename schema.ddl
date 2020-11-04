@@ -13,11 +13,12 @@ create table CountryInfo(
 	life_expectancy real);
 
 create table CovidEffects(
-	date varchar(20) not null,
 	country varchar(255) not null,
-	total_cases integer not null,
+	date varchar(20) not null,
+	year integer,
+	total_cases integer,
 	new_cases integer not null,
-	total_deaths integer not null,
+	total_deaths integer,
 	new_deaths integer not null,
 	primary key (date,country),
 	foreign key (country) references CountryInfo);
@@ -26,20 +27,22 @@ create table GovernmentPolicies(
 	record_id varchar(255) primary key,
 	policy varchar(255) not null,
 	country varchar(255) not null,
-	description varchar(255),
-	date_started integer not null,
+	description text,
+	date_started varchar(20) not null,
 	type varchar(255) not null,
 	compliance varchar(255) not null,
 	enforcer varchar(255) not null,
 	foreign key (country) references CountryInfo);
 
 create table FinancialAid(
-	financial_id varchar(255) primary key, 
+	flow_code varchar(5) not null, 
 	country varchar(255) not null,
-	approval_date integer not null,
-	grant_amount integer not null,
+	approval_date varchar(20),
+	approval_year integer,
+	grant_amount real not null,
 	grant_purpose varchar(255) not null,
 	income_type varchar(255) not null,
+	primary key (flow_code,country),
 	foreign key (country) references CountryInfo);
 
 create table AirlineRestrictions(
@@ -48,9 +51,9 @@ create table AirlineRestrictions(
 	x_coordinate real not null,
 	y_coordinate real not null,
 	publication_date varchar(20) not null,
+	publication_year integer,
 	info_source varchar(255),
 	airline varchar(255) not null default 'all',
-	details varchar(255),
 	foreign key (country) references CountryInfo);
 
 create table PoliticalUnrest(
@@ -86,13 +89,13 @@ create trigger government_policies_date_check
 	before insert on GovernmentPolicies
 	for each row execute procedure government_policies_date_check();
 
--- check if date in FinancialAid is during COVID by comparing it to earliest & latest dates in CovidEffects
+-- check if date in FinancialAid is during COVID by comparing it to the year range in CovidEffects
 
 create function financial_aid_date_check()
 	returns trigger
 	as $$
 		begin
-			if new.approval_date <= (select max(date) from CovidEffects) and new.approval_date >= (select min(date) from CovidEffects) then
+			if new.approval_year <= (select max(year) from CovidEffects) and new.approval_year >= (select min(year) from CovidEffects) then
 				return new;
 			end if;
 			return null;
@@ -103,36 +106,36 @@ create trigger financial_aid_date_check
 	before insert on FinancialAid
 	for each row execute procedure financial_aid_date_check();
 
--- check if date in AirlineRestrictions is during COVID by comparing it to earliest & latest dates in CovidEffects
+-- check if date in AirlineRestrictions is during COVID by comparing it to the year range in CovidEffects
 
--- create function airline_restrictions_date_check()
--- 	returns trigger
--- 	as $$
--- 		begin
--- 			if new.publication_date <= (select max(date) from CovidEffects) and new.publication_date >= (select min(date) from CovidEffects) then
--- 				return new;
--- 			end if;
--- 			return null;
--- 		end;
--- 	$$ language plpgsql;
+create function airline_restrictions_date_check()
+	returns trigger
+	as $$
+		begin
+			if new.publication_year <= (select max(year) from CovidEffects) and new.publication_year >= (select min(year) from CovidEffects) then
+				return new;
+			end if;
+			return null;
+		end;
+	$$ language plpgsql;
 
--- create trigger airline_restrictions_date_check
--- 	before insert on AirlineRestrictions
--- 	for each row execute procedure airline_restrictions_date_check();
+create trigger airline_restrictions_date_check
+	before insert on AirlineRestrictions
+	for each row execute procedure airline_restrictions_date_check();
 
--- check if date in PoliticalUnrest is during COVID by comparing it to earliest & latest dates in CovidEffects
+-- check if date in PoliticalUnrest is during COVID by comparing it to the year range iin CovidEffects
 
--- create function political_unrest_date_check()
--- 	returns trigger
--- 	as $$
--- 		begin
--- 			if new.event_date <= (select max(date) from CovidEffects) and new.event_date >= (select min(date) from CovidEffects) then
--- 				return new;
--- 			end if;
--- 			return null;
--- 		end;
--- 	$$ language plpgsql;
+create function political_unrest_date_check()
+	returns trigger
+	as $$
+		begin
+			if new.year <= (select max(year) from CovidEffects) and new.year >= (select min(year) from CovidEffects) then
+				return new;
+			end if;
+			return null;
+		end;
+	$$ language plpgsql;
 
--- create trigger political_unrest_date_check
--- 	before insert on PoliticalUnrest
--- 	for each row execute procedure political_unrest_date_check();
+create trigger political_unrest_date_check
+	before insert on PoliticalUnrest
+	for each row execute procedure political_unrest_date_check();
