@@ -1,0 +1,11 @@
+COPY financialaid FROM new_imported_financial_aid.csv csv header;
+COPY countryinfo FROM imported_country_info.csv csv header;
+COPY covideffects FROM new_imported_covid_effects.csv csv header;
+COPY government policies FROM imported_government_policies.csv csv header;
+COPY politicalunrest FROM imported_political_unrest.csv csv header;
+COPY airlinerestrictions FROM imported_airline_restrictions_1.csv csv header;
+
+#SAMPLE QUERY: What are the COVID restrictions of countries with a population density greater than 500??
+
+
+SELECT country, info,airline FROM airlinerestrictions WHERE EXISTS (SELECT country FROM countryinfo WHERE countryinfo.country = airlinerestrictions.country AND population_density > 500);
