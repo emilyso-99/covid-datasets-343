@@ -1,0 +1,327 @@
+﻿flow_code,country,approval_date,grant_amount_usd_mil,purpose_code,income_type
+IMF_CCRT,Afghanistan,2020-04-13,3.3,2 - Budget Support,Low income
+IMF_RCF,Afghanistan,2020-04-29,0,2 - Budget Support,Low income
+IMF_RFI,Albania,2020-04-10,0,2 - Budget Support,Upper middle income
+IMF_SBA,Armenia,2020-05-18,0,2 - Budget Support,Upper middle income
+IMF_RCF,Bangladesh,2020-05-29,0,2 - Budget Support,Lower middle income
+IMF_RFI,Bangladesh,2020-05-29,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Benin,2020-04-13,10.2,2 - Budget Support,Low income
+IMF_ECF,Benin,2020-05-15,0,2 - Budget Support,Low income
+IMF_RFI,Bolivia,2020-04-17,0,2 - Budget Support,Lower middle income
+IMF_RFI,Bosnia and Herzegovina,2020-04-20,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Burkina Faso,2020-04-13,11.9,2 - Budget Support,Low income
+IMF_RCF,Burkina Faso,2020-04-14,0,2 - Budget Support,Low income
+IMF_RCF,Cabo Verde,2020-04-22,0,2 - Budget Support,Lower middle income
+IMF_RCF,Cameroon,2020-05-04,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Central African Republic,2020-04-13,4,2 - Budget Support,Low income
+IMF_RCF,Central African Republic,2020-04-20,0,2 - Budget Support,Low income
+IMF_RCF,Chad,2020-04-14,0,2 - Budget Support,Low income
+IMF_CCRT,Comoros,2020-04-13,1.3,2 - Budget Support,Lower middle income
+IMF_RCF,Comoros,2020-04-22,0,2 - Budget Support,Lower middle income
+IMF_RFI,Comoros,2020-04-22,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Democratic Republic of Congo,2020-04-13,20.3,2 - Budget Support,Low income
+IMF_RCF,Democratic Republic of Congo,2020-04-22,0,2 - Budget Support,Low income
+IMF_RFI,Costa Rica,2020-04-29,0,2 - Budget Support,Upper middle income
+IMF_RCF,Cote d'Ivoire,2020-04-17,0,2 - Budget Support,Lower middle income
+IMF_RFI,Cote d'Ivoire,2020-04-17,0,2 - Budget Support,Lower middle income
+IMF_RCF,Djibouti,2020-05-08,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Djibouti,2020-05-08,2.3,2 - Budget Support,Lower middle income
+IMF_RCF,Dominica,2020-04-28,0,2 - Budget Support,Upper middle income
+IMF_RFI,Dominican Republic,2020-04-29,0,2 - Budget Support,Upper middle income
+IMF_RFI,Ecuador,2020-05-01,0,2 - Budget Support,Upper middle income
+IMF_RFI,Egypt,2020-05-11,0,2 - Budget Support,Lower middle income
+IMF_SBA,Egypt,2020-06-26,0,2 - Budget Support,Lower middle income
+IMF_RFI,El Salvador,2020-04-14,0,2 - Budget Support,Lower middle income
+IMF_RFI,Ethiopia,2020-04-30,0,2 - Budget Support,Low income
+IMF_CCRT,Ethiopia,2020-04-30,11.7,2 - Budget Support,Low income
+IMF_RFI,Gabon,2020-04-09,0,2 - Budget Support,Upper middle income
+IMF_ECF,Gambia,2020-03-23,0,2 - Budget Support,Low income
+IMF_CCRT,Gambia,2020-04-13,2.9,2 - Budget Support,Low income
+IMF_RCF,Gambia,2020-04-15,0,2 - Budget Support,Low income
+IMF_EFF,Georgia,2020-05-01,0,2 - Budget Support,Upper middle income
+IMF_RCF,Ghana,2020-04-13,0,2 - Budget Support,Lower middle income
+IMF_RCF,Grenada,2020-04-28,0,2 - Budget Support,Upper middle income
+IMF_RFI,Guatemala,2020-06-10,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Guinea,2020-04-13,22.4,2 - Budget Support,Low income
+IMF_RCF,Guinea,2020-06-19,0,2 - Budget Support,Low income
+IMF_CCRT,Guinea-Bissau,2020-04-13,1.5,2 - Budget Support,Low income
+IMF_CCRT,Haiti,2020-04-13,5.6,2 - Budget Support,Low income
+IMF_RCF,Haiti,2020-04-17,0,2 - Budget Support,Low income
+IMF_SBA,Honduras,2020-06-01,0,2 - Budget Support,Lower middle income
+IMF_RFI,Jamaica,2020-05-15,0,2 - Budget Support,Upper middle income
+IMF_EFF,Jordan,2020-03-26,0,2 - Budget Support,Upper middle income
+IMF_RFI,Jordan,2020-05-20,0,2 - Budget Support,Upper middle income
+IMF_RCF,Kenya,2020-05-06,0,2 - Budget Support,Lower middle income
+IMF_RFI,Kosovo,2020-04-10,0,2 - Budget Support,Upper middle income
+IMF_RFI,Kyrgyzstan,2020-05-08,0,2 - Budget Support,Lower middle income
+IMF_RCF,Kyrgyzstan,2020-05-08,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Liberia,2020-04-13,15.9,2 - Budget Support,Low income
+IMF_RCF,Liberia,2020-06-05,0,2 - Budget Support,Low income
+IMF_RCF,Madagascar,2020-04-03,0,2 - Budget Support,Low income
+IMF_CCRT,Madagascar,2020-04-13,4.2,2 - Budget Support,Low income
+IMF_CCRT,Malawi,2020-04-13,9.8,2 - Budget Support,Low income
+IMF_RCF,Malawi,2020-05-01,0,2 - Budget Support,Low income
+IMF_RCF,Maldives,2020-04-22,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Mali,2020-04-13,10,2 - Budget Support,Low income
+IMF_RCF,Mali,2020-04-30,0,2 - Budget Support,Low income
+IMF_RCF,Mauritania,2020-04-23,0,2 - Budget Support,Lower middle income
+IMF_RCF,Moldova,2020-04-17,0,2 - Budget Support,Lower middle income
+IMF_RFI,Moldova,2020-04-17,0,2 - Budget Support,Lower middle income
+IMF_RFI,Mongolia,2020-06-03,0,2 - Budget Support,Lower middle income
+IMF_RFI,Montenegro,2020-06-24,0,2 - Budget Support,Upper middle income
+IMF_RCF,Mozambique,2020-04-24,0,2 - Budget Support,Low income
+IMF_RFI,Myanmar,2020-06-26,0,2 - Budget Support,Lower middle income
+IMF_RCF,Myanmar,2020-06-26,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Nepal,2020-04-13,3.9,2 - Budget Support,Low income
+IMF_RCF,Nepal,2020-05-06,0,2 - Budget Support,Low income
+IMF_CCRT,Niger,2020-04-13,7.7,2 - Budget Support,Low income
+IMF_RCF,Niger,2020-04-14,0,2 - Budget Support,Low income
+IMF_RFI,Nigeria,2020-04-28,0,2 - Budget Support,Lower middle income
+IMF_RFI,Macedonia,2020-04-10,0,2 - Budget Support,Upper middle income
+IMF_RFI,Pakistan,2020-04-16,0,2 - Budget Support,Lower middle income
+IMF_RCF,Papua New Guinea,2020-06-09,0,2 - Budget Support,Lower middle income
+IMF_RFI,Paraguay,2020-04-21,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Rwanda,2020-04-13,10.9,2 - Budget Support,Low income
+IMF_RCF,Rwanda,2020-06-11,0,2 - Budget Support,Low income
+IMF_RCF,Samoa,2020-04-24,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Mozambique,2020-04-13,14.9,2 - Budget Support,Low income
+IMF_CCRT,Sao Tome and Principe,2020-04-13,0.2,2 - Budget Support,Lower middle income
+IMF_RCF,Sao Tome and Principe,2020-04-21,0,2 - Budget Support,Lower middle income
+IMF_RFI,Senegal,2020-04-13,0,2 - Budget Support,Lower middle income
+IMF_RCF,Senegal,2020-04-13,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Sierra Leone,2020-04-13,18.3,2 - Budget Support,Low income
+IMF_RCF,Sierra Leone,2020-06-03,0,2 - Budget Support,Low income
+IMF_CCRT,Solomon Islands,2020-04-13,0.1,2 - Budget Support,Lower middle income
+IMF_RCF,Solomon Islands,2020-06-01,0,2 - Budget Support,Lower middle income
+IMF_RFI,Solomon Islands,2020-06-01,0,2 - Budget Support,Lower middle income
+IMF_EFF/C,Somalia,2020-03-25,0,2 - Budget Support,Low income
+IMF_RCF,Saint Lucia,2020-04-28,0,2 - Budget Support,Upper middle income
+IMF_RCF,Saint Vincent and the Grenadines,2020-05-20,0,2 - Budget Support,Upper middle income
+IMF_CCRT,Tajikistan,2020-04-13,10.7,2 - Budget Support,Low income
+IMF_RCF,Tajikistan,2020-05-06,0,2 - Budget Support,Low income
+IMF_CCRT,Tanzania,2020-06-10,14.3,2 - Budget Support,Low income
+IMF_ECF,Togo,2020-04-03,0,2 - Budget Support,Low income
+IMF_CCRT,Togo,2020-04-13,5.1,2 - Budget Support,Low income
+IMF_RFI,Tunisia,2020-04-10,0,2 - Budget Support,Lower middle income
+IMF_RCF,Uganda,2020-05-06,0,2 - Budget Support,Low income
+IMF_SBA,Ukraine,2020-06-09,0,2 - Budget Support,Lower middle income
+IMF_RFI,Uzbekistan,2020-05-18,0,2 - Budget Support,Lower middle income
+IMF_RCF,Uzbekistan,2020-05-18,0,2 - Budget Support,Lower middle income
+IMF_CCRT,Yemen,2020-04-13,19.7,2 - Budget Support,Low income
+WB_New_IBRD,Peru,2020-04-07,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Ukraine,2020-04-27,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Ethiopia,2020-04-02,41.3,1 - Covid Project,Low income
+WB_New_IDA,Bangladesh,2020-04-03,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Tajikistan,2020-04-02,11.3,1 - Covid Project,Low income
+WB_New_IDA,Kyrgyzstan,2020-04-02,6.1,1 - Covid Project,Lower middle income
+WB_New_IBRD,Argentina,2020-04-02,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Ecuador,2020-04-02,0,1 - Covid Project,Upper middle income
+WB_New_IDA,Afghanistan,2020-04-02,100.4,1 - Covid Project,Low income
+WB_New_Blend,Moldova,2020-04-24,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Sao Tome and Principe,2020-04-02,2.5,1 - Covid Project,Lower middle income
+WB_New_IDA,Bhutan,2020-04-17,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Ghana,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_Blend,Pakistan,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Gambia,2020-04-02,10,1 - Covid Project,Low income
+WB_New_Blend,Mongolia,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Maldives,2020-04-02,3.7,1 - Covid Project,Upper middle income
+WB_New_IDA,Sierra Leone,2020-04-02,7.5,1 - Covid Project,Low income
+WB_New_IBRD,Paraguay,2020-04-02,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Bosnia and Herzegovina,2020-04-23,0,1 - Covid Project,Upper middle income
+WB_New_IDA,Haiti,2020-04-02,20,1 - Covid Project,Low income
+WB_New_IDA,Liberia,2020-04-09,3.8,1 - Covid Project,Low income
+WB_New_IDA,Cambodia,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Mali,2020-04-10,12.9,1 - Covid Project,Low income
+WB_New_Blend,Kenya,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Democratic Republic of Congo,2020-04-02,23.6,1 - Covid Project,Low income
+WB_New_Blend,Uzbekistan,2020-04-24,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Central African Republic,2020-04-20,7.5,1 - Covid Project,Low income
+WB_New_Blend,Papua New Guinea,2020-04-10,0,1 - Covid Project,Lower middle income
+WB_New_IBRD,India,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Mauritania,2020-04-02,5.2,1 - Covid Project,Lower middle income
+WB_New_IDA,Senegal,2020-04-02,10,1 - Covid Project,Lower middle income
+WB_New_IDA,Benin,2020-04-27,5.2,1 - Covid Project,Low income
+WB_New_IDA,Burundi,2020-04-10,5,1 - Covid Project,Low income
+WB_New_IDA,Niger,2020-04-13,7,1 - Covid Project,Low income
+WB_New_IDA,Rwanda,2020-04-07,0,1 - Covid Project,Low income
+WB_New_Blend,Cabo Verde,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Burkina Faso,2020-04-28,10.6,1 - Covid Project,Low income
+WB_New_IDA,Honduras,2020-04-15,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Yemen,2020-04-02,26.9,1 - Covid Project,Low income
+WB_New_IBRD,Sri Lanka,2020-04-02,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,El Salvador,2020-04-17,0,1 - Covid Project,Lower middle income
+WB_New_IBRD,Philippines,2020-04-22,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Togo,2020-04-17,4.1,1 - Covid Project,Low income
+WB_New_IDA,Marshall Islands,2020-04-16,2.5,1 - Covid Project,Upper middle income
+WB_New_IDA,Chad,2020-04-24,17,1 - Covid Project,Low income
+WB_New_IDA,Myanmar,2020-04-14,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Samoa,2020-04-21,2.9,1 - Covid Project,Upper middle income
+WB_New_IBRD,Jordan,2020-04-28,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Turkey,2020-04-24,0,1 - Covid Project,Upper middle income
+WB_New_IDA,Djibouti,2020-04-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Nepal,2020-04-03,0,1 - Covid Project,Low income
+WB_New_IDA,Malawi,2020-04-14,3.5,1 - Covid Project,Low income
+WB_New_IDA,South Sudan,2020-04-28,0,1 - Covid Project,Low income
+WB_New_IBRD,Georgia,2020-04-30,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Macedonia,2020-04-30,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Tunisia,2020-04-30,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Cote d'Ivoire,2020-05-02,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Lesotho,2020-05-09,0,1 - Covid Project,Lower middle income
+WB_New_IDA,Kosovo,2020-05-20,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Mexico,2020-05-19,0,2 - Budget Support,Upper middle income
+WB_New_IBRD,Indonesia,2020-05-15,0,2 - Budget Support,Lower middle income
+WB_New_IDA,Somalia,2020-05-15,137.5,1 - Covid Project,Low income
+WB_New_IBRD,Gabon,2020-05-15,0,1 - Covid Project,Upper middle income
+WB_New_IDA,Sudan,2020-05-14,11.6,1 - Covid Project,Lower middle income
+WB_New_IBRD,Egypt,2020-05-14,0,1 - Covid Project,Lower middle income
+WB_New_IBRD,Bolivia,2020-05-14,0,2 - Budget Support,Lower middle income
+WB_New_IDA,Tonga,2020-05-12,5.5,2 - Budget Support,Upper middle income
+WB_New_IDA,Madagascar,2020-06-08,10,2 - Budget Support,Low income
+WB_New_IDA,Guinea,2020-05-29,35,2 - Budget Support,Low income
+WB_New_IBRD,Serbia,2020-05-26,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Iran,2020-05-26,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Belarus,2020-05-21,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Morocco,2020-06-16,0,1 - Covid Project,Lower middle income
+WB_New_NA,Egypt,2020-06-16,0,1 - Covid Project,Lower middle income
+WB_New_IBRD,China,2020-06-18,0,1 - Covid Project,Upper middle income
+WB_New_NA,Congo,2020-06-24,0,1 - Covid Project,Lower middle income
+WB_New_Blend,Fiji,2020-06-24,0,1 - Covid Project,Upper middle income
+WB_New_IDA,Kiribati,2020-06-25,1.3,1 - Covid Project,Lower middle income
+WB_New_IBRD,Guatemala,2020-06-26,0,1 - Covid Project,Upper middle income
+WB_New_IBRD,Dominican Republic,2020-06-26,0,1 - Covid Project,Upper middle income
+WB_New_Blend,Saint Lucia,2020-06-26,0,2 - Budget Support,Upper middle income
+WB_New_IBRD,Colombia,2020-06-26,0,2 - Budget Support,Upper middle income
+WB_New_IDA,Uganda,2020-06-29,0,2 - Budget Support,Low income
+WB_RP_IDA,Benin,2010-01-01,0,3 - Repurposed,Low income
+WB_RP_Blend,Mongolia,2010-01-02,0,3 - Repurposed,Lower middle income
+WB_RP_IBRD,Brazil,2010-01-03,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Haiti,2010-01-04,0,3 - Repurposed,Low income
+WB_RP_Blend,Pakistan,2010-01-05,0,3 - Repurposed,Lower middle income
+WB_RP_IBRD,China,2010-01-06,0,3 - Repurposed,Upper middle income
+WB_RP_Blend,Saint Lucia,2010-01-07,0,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Lebanon,2010-01-08,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Zambia,2010-01-09,0,3 - Repurposed,Lower middle income
+WB_RP_Blend,Kenya,2010-01-10,0,3 - Repurposed,Lower middle income
+WB_RP_IBRD,Kazakhstan,2010-01-11,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Turkey,2010-01-12,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Guinea,2010-01-13,0,3 - Repurposed,Low income
+WB_RP_IDA,Senegal,2010-01-14,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Sierra Leone,2010-01-15,0,3 - Repurposed,Low income
+WB_RP_Blend,Cameroon,2010-01-16,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Cambodia,2010-01-17,0,3 - Repurposed,Lower middle income
+WB_RP_IBRD,Ecuador,2010-01-18,0,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Tunisia,2010-01-19,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Madagascar,2010-01-20,7.9,3 - Repurposed,Low income
+WB_RP_IDA,Mali,2010-01-21,0.1,3 - Repurposed,Low income
+WB_RP_IDA,Tonga,2010-01-22,0.3,3 - Repurposed,Upper middle income
+WB_RP_IDA,Tuvalu,2010-01-23,0,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Guinea-Bissau,2010-01-24,0,3 - Repurposed,Low income
+WB_RP_IBRD,Jordan,2010-01-25,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Uganda,2010-01-26,0,3 - Repurposed,Low income
+WB_RP_IDA,Federated States of Micronesia,2010-01-27,0.1,3 - Repurposed,Lower middle income
+WB_RP_IDA,Djibouti,2010-01-28,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Ghana,2010-01-29,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Comoros,2010-01-30,0.5,3 - Repurposed,Lower middle income
+WB_RP_Blend,Dominica,2010-01-31,1.2,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Egypt,2010-02-01,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Chad,2010-02-02,1.5,3 - Repurposed,Low income
+WB_RP_IDA,Cote d'Ivoire,2010-02-03,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Dominica,2010-02-04,0,3 - Repurposed,Upper middle income
+WB_RP_Blend,Grenada,2010-02-05,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Mozambique,2010-02-06,8.1,3 - Repurposed,Low income
+WB_RP_IDA,Egypt,2010-02-07,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Kyrgyzstan,2010-02-08,1.5,3 - Repurposed,Lower middle income
+WB_RP_IBRD,Armenia,2010-02-09,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,South Sudan,2010-02-10,7.9,3 - Repurposed,Low income
+WB_RP_Blend,Saint Vincent and the Grenadines,2010-02-11,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Samoa,2010-02-12,0.7,3 - Repurposed,Upper middle income
+WB_RP_IDA,Saint Lucia,2010-02-13,0,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Suriname,2010-02-14,0,3 - Repurposed,Upper middle income
+WB_RP_IBRD,Bolivia,2010-02-15,0,3 - Repurposed,Lower middle income
+WB_RP_IBRD,Iraq,2010-02-16,0,3 - Repurposed,Upper middle income
+WB_RP_IDA,Liberia,2010-02-17,1.2,3 - Repurposed,Low income
+WB_RP_IDA,Guinea-Bissau,2010-02-18,0,3 - Repurposed,Low income
+WB_RP_Blend,Nigeria,2010-02-19,5.1,3 - Repurposed,Lower middle income
+WB_RP_IDA,Togo,2010-02-20,0.1,3 - Repurposed,Low income
+WB_RP_IBRD,Angola,2010-02-21,0,3 - Repurposed,Lower middle income
+WB_RP_IDA,Mauritania,2010-02-22,1.1,3 - Repurposed,Lower middle income
+WB_RP_IDA,Niger,2010-02-23,0.2,3 - Repurposed,Low income
+WB_Cat_DDO_IBRD,Colombia,2012-07-10,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IDA,Madagascar,2019-12-12,0,2 - Budget Support,Low income
+WB_Cat_DDO_IDA,Vanuatu,2020-01-07,5,2 - Budget Support,Lower middle income
+WB_Cat_DDO_IDA,Tuvalu,2019-12-13,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_Blend,Kenya,2018-06-21,0,2 - Budget Support,Lower middle income
+WB_Cat_DDO_IBRD,Dominican Republic,2017-09-28,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IBRD,Guatemala,2019-05-24,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_Blend,Cabo Verde,2019-06-05,0,2 - Budget Support,Lower middle income
+WB_Cat_DDO_IDA,Maldives,2019-07-01,5,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IDA,Malawi,2019-06-06,14.8,2 - Budget Support,Low income
+WB_Cat_DDO_IDA,Samoa,2018-11-29,2.5,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IBRD,Romania,2018-06-26,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IBRD,Serbia,2017-05-03,0,2 - Budget Support,Upper middle income
+WB_Cat_DDO_IDA,Nepal,2020-03-10,0,2 - Budget Support,Low income
+WB_Cat_DDO_IBRD,Morocco,2019-12-11,0,2 - Budget Support,Lower middle income
+WB_Cat_DDO_IDA,Saint Vincent and the Grenadines,2020-06-25,0,2 - Budget Support,Upper middle income
+ADB_New,China,2020-03-30,0,1 - Covid Project,Upper middle income
+ADB_New,Mongolia,2020-03-25,0,1 - Covid Project,Lower middle income
+ADB_New,Maldives,2020-03-25,0,1 - Covid Project,Upper middle income
+ADB_New,Indonesia,2020-03-20,0,1 - Covid Project,Lower middle income
+AfDB_New,Mauritania,2020-06-09,4,1 - Covid Project,Lower middle income
+AfDB_New,Mali,2020-06-09,4,1 - Covid Project,Low income
+AfDB_New,Burkina Faso,2020-06-09,4,1 - Covid Project,Low income
+AfDB_New,Niger,2020-06-09,4,1 - Covid Project,Low income
+AfDB_New,Chad,2020-06-09,4,1 - Covid Project,Low income
+AfDB_RP,Somalia,2020-06-10,10.4,3 - Repurposed,Low income
+AfDB_New,Cote d'Ivoire,2020-06-09,85.1,2- Budget Support,Lower middle income
+AfDB_New,Gambia,2020-05-22,7.5,1 - Covid Project,Low income
+AfDB_New,Nigeria,2020-06-09,0,2- Budget Support,Lower middle income
+AfDB_New,Senegal,2020-05-30,0,2- Budget Support,Lower middle income
+AfDB_New,Cabo Verde,2020-05-28,0,2- Budget Support,Lower middle income
+AfDB_New,Morocco,2020-05-27,0,2- Budget Support,Lower middle income
+AfDB_New,Tunisia,2020-06-03,202.2,2- Budget Support,Lower middle income
+AfDB_New,Egypt,2020-05-27,0.5,1 - Covid Project,Lower middle income
+AfDB_New,Zimbabwe,2020-05-15,0,1 - Covid Project,Lower middle income
+AfDB_New,Kenya,2020-05-22,0,2- Budget Support,Lower middle income
+AfDB_New,Mauritius,2020-05-22,208.5,2- Budget Support,Upper middle income
+AfDB_New,Cameroon,2020-06-03,1.5,1 - Covid Project,Lower middle income
+AfDB_New,Democratic Republic of Congo,2020-06-03,2.3,1 - Covid Project,Low income
+AfDB_New,Central African Republic,2020-06-03,2.3,1 - Covid Project,Low income
+AfDB_New,Congo,2020-06-03,2.3,1 - Covid Project,Lower middle income
+AfDB_New,Equatorial Guinea,2020-06-03,2.3,1 - Covid Project,Upper middle income
+IDB_RP,Honduras,2020-04-17,0,3 - Repurposed,Lower middle income
+IDB_New,El Salvador,2020-04-17,0,1 - Covid Project,Lower middle income
+IDB_New,Ecuador,2020-04-16,0,2- Budget Support,Upper middle income
+IDB_New,Paraguay,2020-05-18,0,2- Budget Support,Upper middle income
+IDB_RP,Bolivia,2020-05-18,0,3 - Repurposed,Lower middle income
+IDB_New,Bolivia,2020-05-27,0,2- Budget Support,Lower middle income
+IDB_New,Belize,2020-06-05,0,2- Budget Support,Upper middle income
+IDB_New,Argentina,2020-05-21,0,2- Budget Support,Upper middle income
+ADB_New,Afghanistan,2020-05-07,40,1 - Covid Project,Low income
+ADB_New,Bangladesh,2020-05-07,0,1 - Covid Project,Lower middle income
+ADB_New,Bhutan,2020-05-04,0,2- Budget Support,Lower middle income
+ADB_New,Kyrgyzstan,2020-04-30,25,1 - Covid Project,Lower middle income
+ADB_New,India,2020-04-24,0,2- Budget Support,Lower middle income
+ADB_New,Philippines,2020-04-23,0,2- Budget Support,Lower middle income
+ADB_New,Tonga,2020-03-30,0.5,1 - Covid Project,Upper middle income
+ADB_New,Pakistan,2020-05-19,5.8,1 - Covid Project,Lower middle income
+ADB_New,Nepal,2020-05-26,0,2- Budget Support,Low income
+ADB_New,Georgia,2020-05-28,0,2- Budget Support,Upper middle income
+ADB_RP,India,2018-08-13,0,3 - Repurposed,Lower middle income
+ADB_New,Tajikistan,2020-06-18,0,2- Budget Support,Low income
+ADB_New,Uzbekistan,2020-07-24,0,2- Budget Support,Lower middle income
+ADB_New,Kazakhstan,2020-06-25,0,2- Budget Support,Upper middle income
+ADB_New,Solomon Islands,2020-06-26,0,1 - Covid Project,Lower middle income
+ADB_New,Thailand,2020-06-26,0,2- Budget Support,Upper middle income
+IDB_New,Costa Rica,2020-06-22,0,2- Budget Support,Upper middle income
+AfDB_New,Ethiopia,2020-07-03,0,1 - Covid Project,Low income
+AfDB_New,Gabon,2020-06-26,0,2- Budget Support,Upper middle income
+AfDB_RP,Togo,2020-06-23,0,3 - Repurposed,Low income
+AfDB_New,South Sudan,2020-06-17,0,1 - Covid Project,Low income
+WB_IFC,South Sudan,2020-05-20,0,4 - Private,Low income
+WB_IFC,Sri Lanka,2020-06-08,0,4 - Private,Upper middle income
+WB_IFC,Nigeria,2020-06-18,0,4 - Private,Lower middle income
+WB_IFC,South Africa,2020-06-20,0,4 - Private,Upper middle income
+WB_IFC,Maldives,2020-07-01,0,4 - Private,Upper middle income
+WB_IFC,Egypt,2020-07-05,0,4 - Private,Lower middle income
+WB_IFC,Mauritania,2020-07-06,0,4 - Private,Lower middle income
+WB_IFC,Vietnam,2020-07-06,0,4 - Private,Lower middle income
