@@ -2,6 +2,8 @@ drop schema if exists Covid19 cascade;
 create schema Covid19;
 set search_path to Covid19;
 
+
+-- a country's general information
 create table CountryInfo(
 	country varchar(255) primary key,
 	population bigint not null,
@@ -12,6 +14,8 @@ create table CountryInfo(
 	gdp_per_capita real,
 	life_expectancy real);
 
+
+-- a country's COVID "details" for various days during the COVID outbreak
 create table CovidEffects(
 	country varchar(255) not null,
 	date date not null,
@@ -22,6 +26,7 @@ create table CovidEffects(
 	primary key (date,country),
 	foreign key (country) references CountryInfo);
 
+-- a policy for each country decided by the government to be added during COVID
 create table GovernmentPolicies(
 	record_id varchar(255) primary key,
 	policy varchar(255) not null,
@@ -33,6 +38,8 @@ create table GovernmentPolicies(
 	enforcer varchar(255) not null,
 	foreign key (country) references CountryInfo);
 
+
+-- a financial aid given to a country during COVID
 create table FinancialAid(
 	flow_code varchar(25) not null, 
 	country varchar(255) not null,
@@ -43,6 +50,8 @@ create table FinancialAid(
 	primary key (flow_code,country),
 	foreign key (country) references CountryInfo);
 
+
+-- a country's airline restrictions added during COVID
 create table AirlineRestrictions(
 	country varchar(255) not null primary key,
 	abbreviation_code varchar(255) not null,
@@ -53,6 +62,8 @@ create table AirlineRestrictions(
 	airline varchar(255) not null default 'all',
 	foreign key (country) references CountryInfo);
 
+
+-- a "political unrest" event during COVID (ex: riot)
 create table PoliticalUnrest(
 	unrest_id varchar(255) primary key,
 	event_date date not null,
